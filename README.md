@@ -1,6 +1,6 @@
 # CAR-T Infection Risk Prescreening Calculator
 
-Minimal Streamlit Community Cloud upload package for the research-use CAR-T day-100 infection risk stratification calculator.
+Streamlit Community Cloud upload package for the research-use CAR-T day-100 infection risk stratification calculator.
 
 ## Required Streamlit Cloud Settings
 
